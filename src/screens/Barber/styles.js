@@ -134,7 +134,7 @@ export const TestimonialInfo = styled.View`
     justify-content: space-between;
     margin-bottom: 5px;
 `;
-export const TestimonialName = styled.Text`
+export const TestimonialName = styled.Text` 
     font-size: 14px;
     font-weight: bold;
     color: #FFFFFF;
